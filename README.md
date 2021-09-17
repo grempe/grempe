@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi there, I'm Glenn - aka [@grempe][github-grempe] 👋
 
-<!--
-**grempe/grempe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/grempe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgrempe&screen_name=grempe)
 
-Here are some ideas to get you started:
+### I'm a Husband, Father, Developer, and the Founder & CEO of [Truestamp][website-truestamp] (on GitHub [@truestamp][github-truestamp])!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently growing Truestamp 🤣
+- 👯 I’m focused on the intersection of Privacy, Security, Cryptography, and Integrity
+- 🥅 2021 Goals: Help my customers solve problems
+- ⚡ Fun fact: My vehicle license plate has a cryptography reference. I think it confuses most who see it 
+
+
+### Connect with me
+
+---
+
+- Twitter [@grempe][twitter-grempe] or [@truestamp][twitter-truestamp]
+- GitHub [@grempe][github-grempe] or [@truestamp][github-truestamp]
+
+### GitHub Stats
+
+---
+
+![Truestamp's GitHub stats](https://github-readme-stats.vercel.app/api?username=grempe&count_private=true?show_icons=true)
+
+[website-grempe]: https://www.rempe.us
+[website-truestamp]: https://www.truestamp.com
+[github-grempe]: https://www.github.com/grempe
+[github-truestamp]: https://www.github.com/truestamp
+[twitter-grempe]: https://twitter.com/grempe
+[twitter-truestamp]: https://twitter.com/truestamp
+[linkedin-grempe]: https://linkedin.com/in/grempe
+[linkedin-truestamp]: https://linkedin.com/in/truestamp
