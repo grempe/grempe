@@ -23,6 +23,8 @@
 
 ![Truestamp's GitHub stats](https://github-readme-stats.vercel.app/api?username=grempe&count_private=true?show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grempe)](https://github.com/grempe)
+
 [website-grempe]: https://www.rempe.us
 [website-truestamp]: https://www.truestamp.com
 [github-grempe]: https://www.github.com/grempe
