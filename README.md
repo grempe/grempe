@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently growing Truestamp 🤣
 - 👯 I’m focused on the intersection of Privacy, Security, Cryptography, and Integrity
-- 🥅 2021 Goals: Help my customers solve problems
+- 🥅 2022 Goals: Help my customers improve the integrity of their most valuable data
 - ⚡ Fun fact: My vehicle license plate has a cryptography reference. I think it confuses most who see it 
 
 
