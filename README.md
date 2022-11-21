@@ -15,6 +15,7 @@
 ---
 
 - Twitter [@grempe][twitter-grempe] or [@truestamp][twitter-truestamp]
+- Mastodon [@grempe@mastodon.social][mastodon-grempe]
 - GitHub [@grempe][github-grempe] or [@truestamp][github-truestamp]
 
 ### GitHub Stats
@@ -33,3 +34,4 @@
 [twitter-truestamp]: https://twitter.com/truestamp
 [linkedin-grempe]: https://linkedin.com/in/grempe
 [linkedin-truestamp]: https://linkedin.com/in/truestamp
+[mastodon-grempe]: https://mastodon.social/@grempe
